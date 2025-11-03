@@ -1,3 +1,3 @@
-# Yarg Lang
+# .github
 
-Yarg aims to be a dynamic language for microcontroller development.
+Meta-data for the Yarg-Lang org on Github
