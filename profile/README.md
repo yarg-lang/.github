@@ -1,6 +1,6 @@
 ## Yarg Lang
 
-Host of Yarg, a dynamic language for Micrcontroller firmware development.
+Host of Yarg, a dynamic language for Microcontroller firmware development.
 
 ![Picture of three development boards and slice of Cornish Yarg cheese](boards-and-cheesex320.jpeg)
 
