@@ -20,6 +20,13 @@ Of course, if you want to use modern language features, many general purpose lan
 
 Without clear multiprocessing support, language samples for starting projects must include polling, ("while true { sleep(x); do-stuff(); }"), which is wasteful of energy. How long is x? How often is do-stuff() actually needed? Modern microcontrollers are designed to be normally off, and to wake when something interesting is happening. Yarg is a language designed to eliminate wasteful polling like this from the start.
 
+## Aims
+
+  * A dynamic environment for on-device prototyping
+  * Tooling to deploy working firmware to production
+  * Sufficient static typing to reasonably add device specific code without writing C
+  * Interop with C libraries available on device (such as USB, TCP/IP or WiFi)
+
 [blog]: https://transmissionbegins.com/ToT/tag/yarg-lang/
 [homepage]: https://yarg-lang.dev/
 [newsletter]: https://yarg-lang.dev/notes
